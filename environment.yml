@@ -1,0 +1,13 @@
+name: gv_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - geoviews
+  - pyogrio
+  - fiona
+  - openpyxl
+  - jupyter-panel-proxy
+  -  matplotlib
+  - seaborn
+  - hvplot
